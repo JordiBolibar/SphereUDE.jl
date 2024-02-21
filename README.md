@@ -13,6 +13,9 @@ In addition to sphere regression, SphereUDE.jl implements a series of improvemen
 - Incorporation of temporal and spatial uncertainties
 - Uncertainty quantification capabilities
 
+
+<img src="https://github.com/JordiBolibar/SphereUDE.jl/blob/main/examples/double_rotation/plot_sphere.pdf" width="400">
+
 ## Usage
 
 To train a model in new unobserved data, we need to define the _data_, _parameters_, and _regularization_ we want to use. 
